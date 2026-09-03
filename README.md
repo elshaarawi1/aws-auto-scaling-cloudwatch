@@ -74,4 +74,4 @@ All AWS resources were terminated after testing to prevent unexpected billing.
 ![SNS Email](screenshots/37.jpg)
 ---
 ## Author
-Kerolos Ashraf
+Mohamed Ahmed Elshaarawi
